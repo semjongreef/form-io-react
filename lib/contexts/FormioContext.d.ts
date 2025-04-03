@@ -1,4 +1,3 @@
-/// <reference types="react" />
 import { Formio as ImportedFormio } from '@formio/js';
 type BaseConfigurationArgs = {
     baseUrl?: string;

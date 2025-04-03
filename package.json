@@ -35,7 +35,7 @@
 	},
 	"devDependencies": {
 		"@formio/core": "2.2.2-rc.5",
-		"@formio/js": "5.0.0-rc.76",
+		"@formio/js": "github:semjongreef/formio.js#master",
 		"@testing-library/jest-dom": "^6.4.2",
 		"@testing-library/react": "^14.2.2",
 		"@types/jest": "^29.5.12",
